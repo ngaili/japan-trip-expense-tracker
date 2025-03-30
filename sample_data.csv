@@ -1,0 +1,21 @@
+Date,Category,Description,Amount,Currency,Paid By,Split Among
+10/11/2025,Transportation,Airport transfer,5000,JPY,Dennis,All
+10/11/2025,Accommodation,Hotel in Tokyo,60000,JPY,Kick,All
+10/12/2025,Food,Breakfast,8000,JPY,LoB,All
+10/12/2025,Transportation,Subway tickets,1200,JPY,Tak,All
+10/12/2025,Activities,Tokyo Tower,3000,JPY,Fok,All
+10/12/2025,Food,Lunch,12000,JPY,Yuki,All
+10/12/2025,Shopping,Souvenirs,1500,HKD,Danny,Danny,Terry,Dennis
+10/12/2025,Food,Dinner,15000,JPY,Terry,All
+10/13/2025,Food,Breakfast,7500,JPY,Dennis,All
+10/13/2025,Transportation,Train to Kyoto,30000,JPY,Kick,All
+10/13/2025,Accommodation,Ryokan in Kyoto,80000,JPY,LoB,All
+10/13/2025,Food,Lunch,10000,JPY,Tak,All
+10/13/2025,Activities,Temple visits,4000,JPY,Fok,All
+10/13/2025,Food,Dinner,18000,JPY,Yuki,All
+10/14/2025,Food,Breakfast,6000,JPY,Danny,All
+10/14/2025,Transportation,Bus passes,2400,JPY,Terry,All
+10/14/2025,Activities,Tea ceremony,5000,JPY,Dennis,Dennis,Kick,LoB,Tak
+10/14/2025,Shopping,Crafts,2000,HKD,Kick,Kick,Yuki
+10/14/2025,Food,Lunch,11000,JPY,LoB,All
+10/15/2025,Food,Dinner,20000,JPY,Tak,All
